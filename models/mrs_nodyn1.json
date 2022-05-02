@@ -1,0 +1,16 @@
+{
+    "model_name": "mrs_nodyn1",
+    "description": "Model descpription goes here.",
+    "author": "Stefan Ruschke (stefan.ruschke@tum.de)",
+    "created_date": "May 01, 2022",
+    "algorithm": "levenberg-marquardt",
+    "rho_vars": 1,
+    "rho_init": 1,
+    "omega_ref": 1.3,
+    "omega_vars": 2,
+    "omega_init": 0,
+    "d_vars": 3,
+    "d_init": 0.1,
+    "phi_vars": 4,
+    "phi_init": 0
+}
